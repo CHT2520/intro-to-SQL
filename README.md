@@ -4,9 +4,7 @@ This practical work covers the basics of using MySQL and SQL. Make sure you have
 ## Using XAMPP 
 MySQL is part of XAMPP. To complete these exercises you will need Apache to be running and MySQL (check your control panel).
 
-* In a web browser enter http://localhost/phpmyadmin/ and you will be taken to the login page for phpMyAdmin. It should also be available as a link from your localhost homepage.
- 
-You should then be taken to the admin home screen with a list of databases down the left-hand side.
+* In a web browser enter http://localhost/phpmyadmin/ and you will be taken to admin home screen for phpMyAdmin. It should also be available as the 'admin' link from the control panel.
 
 ### Setting up a database
 It's a good idea to set up a database where you can do all your work for the module. You will also need to set up a user with access to this database.
