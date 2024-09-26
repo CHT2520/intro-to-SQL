@@ -23,7 +23,7 @@ A database named cht2520 should appear on the left-hand side.
 Now go onto *Creating some tables* below.
 
 ## Creating tables
-* Make sure your database is selected.
+* Make sure your cht2520 database is selected.
 * Click on the SQL tab, paste in the following code:
 
 ```SQL
