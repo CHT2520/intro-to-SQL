@@ -1,5 +1,5 @@
 # Introduction to SQL
-This practical work covers the basics of using MySQL and SQL. Make sure you have had a look at the notes on key database concepts [Intro to Databases](intro-to-databases.md) and SQL [Intro to SQL](intro-to-sql.md) before attempting the following.
+This practical work covers the basics of using MySQL (MariaDB) and SQL. Make sure you have had a look at the notes on key database concepts [Intro to Databases](intro-to-databases.md) and SQL [Intro to SQL](intro-to-sql.md) before attempting the following.
 
 ## Using XAMPP 
 MySQL is part of XAMPP. To complete these exercises you will need Apache to be running and MySQL (check your control panel).
